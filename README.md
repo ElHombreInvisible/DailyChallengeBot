@@ -1,0 +1,2 @@
+# DailyChallengeBot
+Another dumb bot
